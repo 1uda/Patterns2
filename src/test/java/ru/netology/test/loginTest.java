@@ -13,7 +13,7 @@ import static ru.netology.data.DataGenerator.getRandomLogin;
 import static ru.netology.data.DataGenerator.getRandomPassword;
 
 
-class loginTest {
+class LoginTest {
 
     @BeforeEach
     void setup() {open("http://localhost:9999");}
